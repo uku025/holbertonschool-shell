@@ -1,2 +1,2 @@
 #!/bin/bash
--type d chmod a+X
+chmod a+X
