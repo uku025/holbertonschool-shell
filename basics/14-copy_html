@@ -1,0 +1,2 @@
+#!/bin/bash
+cp -u *.html ../     or is it cp -u ./*.html ../
