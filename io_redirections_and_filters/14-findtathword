@@ -1,0 +1,3 @@
+#!/bin/bash
+Awk '/root/' /etc/paswd 
+
